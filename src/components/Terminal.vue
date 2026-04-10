@@ -6,7 +6,7 @@
         <span class="btn yellow"></span>
         <span class="btn green"></span>
       </div>
-      <div class="title">akaruineko@akaruineko-void &#8211; zsh</div>
+      <div class="title">akaruineko@MS-7A38 &#8211; zsh</div>
     </div>
 
     <div class="terminal" ref="terminal">
