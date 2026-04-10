@@ -67,7 +67,6 @@ const intro=[
 const lines=[
   "привет, я akaruineko 🐱",
   "я школьник и программист-энтузиаст.",
-  "люблю void linux, windows.",
   "",
   "🗣 языки общения:",
   "- русский 🇷🇺",
@@ -88,9 +87,9 @@ const nextLines=[
   "",
   "> loading projects...",
   "",
-  "- window-to-console (Майнкрафт в терминале)",
   "- bf2asm",
-  "- работаю над DUMB",
+  "- righton",
+  "- AN/do",
   "",
   "спасибо, что заглянул ❤️"
 ]
