@@ -59,7 +59,7 @@ function playTypeSound(){
 
 const intro=[
   "> initializing system...",
-  "> connecting to akaruineko@akaruineko-void",
+  "> connecting to akaruineko@MS-7A38",
   "> loading environment variables...",
   "> ready.\n"
 ]
